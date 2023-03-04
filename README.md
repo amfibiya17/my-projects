@@ -22,7 +22,6 @@
 
 | Project<br>Demo Link | Description | Stack |
 | ------------- | ------------- | ------------- |
-| [palendar](https://thepalendar.netlify.app/) | MERN stack app with Weather API, which allows users to schedule a time to hang out with friends ([repo](https://github.com/amfibiya17/final-project)) | JS, CSS, HTML, MongoDB, React, NodeJS, Jest, Bcrypt, Cypress, Nodemone, Mongoose |
 | [weather web app](http://weather--app.s3-website.eu-west-2.amazonaws.com/) | API Weather Web App Frond End project with AJAX deployed to AWS S3 ([repo](https://github.com/amfibiya17/weather-app)) | Vanilla JS, CSS, HTML, Jest, NodeJs |
 | [noughts & crosses game](http://noughts-and-crosses.s3-website.eu-west-2.amazonaws.com/) | Classic Noughts and Crosses Game for 2 players with score counter deployed to AWS S3 ([repo](https://github.com/amfibiya17/noughts-and-crosses)) | React, JS, CSS, HTML, Jest, Enzyme |
 | [news app](http://news-app-challenge.s3-website.eu-west-2.amazonaws.com/) | API News app Frond End challenge with AJAX deployed to AWS S3 ([repo](https://github.com/amfibiya17/news-summary-challenge)) | Vanilla JS, CSS, HTML |
